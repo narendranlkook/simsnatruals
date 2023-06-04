@@ -1,9 +1,9 @@
 a {
-  color: #FFB7C5; /* This is the hexadecimal code for cherry pink */
+  color: #333235; /* This is the hexadecimal code for cherry pink */
   text-decoration: none; /* This removes the underline from the link */
 }
 a:hover {
-  color: #FF69B4; /* This is the hexadecimal code for hot pink */
+  color: #060607; /* This is the hexadecimal code for hot pink */
   text-decoration: underline; /* This adds an underline when you hover over the link */
 }
  body {
