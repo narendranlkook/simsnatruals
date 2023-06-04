@@ -10,12 +10,12 @@ a:hover {
    background-color: #FFB7C5; /* This is the hexadecimal code for cherry pink */
 }
 .sidebar {
-  width: 250px; /* Adjust the width of the sidebar */
+  width: 72px; /* Adjust the width of the sidebar */
   height: 100%; /* Make the sidebar span the height of the page */
   position: fixed; /* Fix the sidebar to the left side of the page */
   background-color: #FFB7C5; /* Set the background color of the sidebar */
   overflow-x: hidden; /* Hide the horizontal scrollbar */
-  padding: 20px; /* Add some padding to the sidebar */
+  padding: 5px; /* Add some padding to the sidebar */
 }
 
 .sidebar a {
